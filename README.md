@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **R**
 
-- 📫 How to reach me **contact.krezio@gmail.com"" or **krezioo* on discord!
+- 📫 How to reach me **contact.krezio@gmail.com** or **krezioo** on discord!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
