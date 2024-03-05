@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krezio</h1>
 <h3 align="center">A web, bot & app developer!</h3>
 
-- 🌱 I’m currently learning **R**
+- 🌱 I’m currently learning **swift**
 
 - 📫 How to reach me **contact@krezio.xyz** or **krezioo** on discord!
 
