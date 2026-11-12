@@ -1,0 +1,32 @@
+# Refreshes the live parts of the README every day, just after midnight in the
+# UAE (20:05 UTC), and whenever it's run by hand: the GitHub line and today's
+# Project Euler problem.
+name: Daily update
+
+on:
+  schedule:
+    - cron: "5 20 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node scripts/daily.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          EULER_SITE: ${{ secrets.EULER_SITE }}
+      - name: Commit if anything changed
+        run: |
+          git config user.name "krezio"
+          git config user.email "kreziocontact@gmail.com"
+          git add README.md assets/euler-light.svg assets/euler-dark.svg
+          git diff --cached --quiet || git commit -m "Daily update"
+          git push
