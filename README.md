@@ -18,26 +18,30 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://roomy.krezio.xyz"><img src="assets/roomy.webp" alt="Roomy" width="100%"></a>
+      <br><b><a href="https://roomy.krezio.xyz">Roomy</a></b> · <sub>C# · WPF · open source</sub>
+      <br>A free disk cleaner for Windows. It shows what's filling your drive in plain English and clears the safe stuff in one click.
+      <br><sub><a href="https://roomy.krezio.xyz">roomy.krezio.xyz</a> · <a href="https://github.com/krezio/roomy">code</a></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://framecalm.krezio.xyz"><img src="assets/framecalm.webp" alt="Framecalm" width="100%"></a>
+      <br><b><a href="https://framecalm.krezio.xyz">Framecalm</a></b> · <sub>C# · WPF · open source</sub>
+      <br>A free Windows optimizer for games. One click builds a plan for your PC from 87 tweaks, each explained and each undoable.
+      <br><sub><a href="https://framecalm.krezio.xyz">framecalm.krezio.xyz</a> · <a href="https://github.com/krezio/framecalm">code</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://studysheet.org"><img src="assets/studysheet.webp" alt="StudySheet" width="100%"></a>
       <br><b><a href="https://studysheet.org">StudySheet</a></b> · <sub>React · Supabase · 2k+ users</sub>
       <br>Study trackers, topic organisation and timetabling for GCSE and A Level students.
+      <br><sub><a href="https://studysheet.org">studysheet.org</a></sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://findauni.org"><img src="assets/findauni.webp" alt="FindAUni" width="100%"></a>
       <br><b><a href="https://findauni.org">FindAUni</a></b> · <sub>Next.js · Cloudflare · 27,000 courses</sub>
       <br>Search and compare UK universities, built on official HESA data.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/krezio/roomy"><img src="assets/roomy.webp" alt="Roomy" width="100%"></a>
-      <br><b><a href="https://github.com/krezio/roomy">Roomy</a></b> · <sub>C# · WPF · open source</sub>
-      <br>See what's filling your Windows drive in plain English, and clear the safe stuff in one click.
-    </td>
-    <td width="50%" valign="top">
-      <img src="assets/sharpstudios.webp" alt="Sharp Studios" width="100%">
-      <br><b>Sharp Studios</b> · <sub>my studio · ≈20 client sites</sub>
-      <br>Websites and web apps for cafes and service businesses, from design to hosting.
+      <br><sub><a href="https://findauni.org">findauni.org</a></sub>
     </td>
   </tr>
 </table>
@@ -46,6 +50,7 @@
 <summary><b>More things I've made</b></summary>
 <br>
 
+- **Sharp Studios**: my studio, building websites and web apps for cafes and service businesses, from design to hosting.
 - **[InstaWrapped](https://github.com/krezio/InstaWrapped)**: an AI report that analyses your chats. Still in development.
 - **Floating to-do**: a tiny always-on-top task panel for the desktop, in Tauri and React.
 - **[VM-Creator](https://github.com/krezio/VM-Creator)**: a Discord bot that spins up Azure virtual machines from one command.
