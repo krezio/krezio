@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=krezio&label=profile%20views&color=c32f18&style=flat-square" alt="Profile views">
   <br>
 <!-- github:start -->
-<sub>Joined GitHub 5 years ago · 123 contributions in the last 7 days</sub>
+<sub>Joined GitHub 5 years ago</sub>
 <!-- github:end -->
 </p>
 
