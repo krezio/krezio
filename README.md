@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=krezio&label=profile%20views&color=c32f18&style=flat-square" alt="Profile views">
   <br>
 <!-- github:start -->
-<sub>Joined GitHub 5 years ago · 133 contributions in the last 7 days</sub>
+<sub>Joined GitHub 5 years ago · 108 contributions in the last 7 days</sub>
 <!-- github:end -->
 </p>
 
@@ -72,13 +72,13 @@
   <img align="right" width="200" src="assets/euler-light.svg" alt="14 of the first 100 Project Euler problems solved">
 </picture>
 
-**Problem of the day, 18 November 2026**
+**Problem of the day, 19 November 2026**
 
-### [Problem 14: Longest Collatz Sequence](https://projecteuler.net/problem=14)
+### [Problem 1: Multiples of 3 or 5](https://projecteuler.net/problem=1)
 
 I'm working through [Project Euler](https://projecteuler.net/) one problem a day. 14 of the first 100 solved so far, spiralling out from 1 on the right; today's is the red square.
 
-[Read today's problem on Project Euler →](https://projecteuler.net/problem=14)
+[Read today's problem on Project Euler →](https://projecteuler.net/problem=1)
 <br clear="right">
 <!-- euler:end -->
 
