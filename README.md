@@ -19,13 +19,13 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://roomy.krezio.xyz"><img src="assets/roomy.webp" alt="Roomy" width="100%"></a>
-      <br><b><a href="https://roomy.krezio.xyz">Roomy</a></b> · <sub>C# · WPF · open source</sub>
+      <br><b><a href="https://roomy.krezio.xyz">Roomy</a></b> · <sub>C# · 20k+ downloads · ~750 stars</sub>
       <br>A free disk cleaner for Windows. It shows what's filling your drive in plain English and clears the safe stuff in one click.
       <br><sub><a href="https://roomy.krezio.xyz">roomy.krezio.xyz</a> · <a href="https://github.com/krezio/roomy">code</a></sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://framecalm.krezio.xyz"><img src="assets/framecalm.webp" alt="Framecalm" width="100%"></a>
-      <br><b><a href="https://framecalm.krezio.xyz">Framecalm</a></b> · <sub>C# · WPF · open source</sub>
+      <br><b><a href="https://framecalm.krezio.xyz">Framecalm</a></b> · <sub>C# · 700+ downloads · open source</sub>
       <br>A free Windows optimizer for games. One click builds a plan for your PC from 87 tweaks, each explained and each undoable.
       <br><sub><a href="https://framecalm.krezio.xyz">framecalm.krezio.xyz</a> · <a href="https://github.com/krezio/framecalm">code</a></sub>
     </td>
@@ -39,7 +39,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://findauni.org"><img src="assets/findauni.webp" alt="FindAUni" width="100%"></a>
-      <br><b><a href="https://findauni.org">FindAUni</a></b> · <sub>Next.js · Cloudflare · 27,000 courses</sub>
+      <br><b><a href="https://findauni.org">FindAUni</a></b> · <sub>Next.js · 27,000 courses · 470+ universities</sub>
       <br>Search and compare UK universities, built on official HESA data.
       <br><sub><a href="https://findauni.org">findauni.org</a></sub>
     </td>
@@ -50,7 +50,7 @@
 <summary><b>More things I've made</b></summary>
 <br>
 
-- **Sharp Studios**: my studio, building websites and web apps for cafes and service businesses, from design to hosting.
+- **Sharp Studios**: my studio, with ≈20 client sites and US$10k+ in revenue, building websites and web apps for cafes and service businesses, from design to hosting.
 - **[InstaWrapped](https://github.com/krezio/InstaWrapped)**: an AI report that analyses your chats. Still in development.
 - **Floating to-do**: a tiny always-on-top task panel for the desktop, in Tauri and React.
 - **[VM-Creator](https://github.com/krezio/VM-Creator)**: a Discord bot that spins up Azure virtual machines from one command.
